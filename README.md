@@ -21,7 +21,7 @@
 
 ## 🚀 Live Demo
 
-👉 [**View Live Demo**](https://your-demo-link.com)
+👉 [**View Live Demo**](https://alcademy.streamlit.app/)
 
 ---
 
