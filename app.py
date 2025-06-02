@@ -65,7 +65,7 @@ if st.button("🔍 Recommend Courses"):
 st.markdown("""
 <div class="footer">
     <p>Made with ❤️ by <strong>Faisal Khan</strong> | 
-    <a href="https://khanfaisal.netlify.app" target="_blank">Portfolio</a> |
+    <a href="https://khanf.netlify.app" target="_blank">Portfolio</a> |
     <a href="https://linkedin.com/in/khanfaisal79960" target="_blank">LinkedIn</a> |
     <a href="https://medium.com/@khanfaisal79960" target="_blank">Medium</a> |
     <a href="https://instagram.com/mr._perfect_1004" target="_blank">Instagram</a> |
